@@ -102,6 +102,8 @@ class obj2{
         }
         scanner.close();
         System.out.println("karen es una kk");
+        System.out.println("Confirmo");
+
                 
     }
 }
